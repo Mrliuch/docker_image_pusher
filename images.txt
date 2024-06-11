@@ -1,4 +1,1 @@
-golang:1.21-alpine
-alpine:3.19
-node:18-alpine3.19
-nginx:1.24.0-alpine
+nginx:1.25.3-alpine
