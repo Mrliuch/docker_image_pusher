@@ -1,5 +1,1 @@
-kubeskoop/controller:v1.0.0
-grafana/grafana:latest
-grafana/loki:2.7.0
-kubeskoop/agent:v1.0.0
-prom/prometheus:latest
+mongo:latest
