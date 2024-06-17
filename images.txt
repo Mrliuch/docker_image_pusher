@@ -1,1 +1,1 @@
-mongo:latest
+prom/node-exporter:v0.16.0
