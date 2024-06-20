@@ -1,1 +1,1 @@
-homeassistant/home-assistant
+elastic/kibana:8.8.0
