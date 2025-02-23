@@ -1,1 +1,1 @@
-elastic/kibana:8.8.0
+consul:1.15.4
