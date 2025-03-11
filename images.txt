@@ -1,2 +1,2 @@
-prometheus
-grafana
+--platform=linux/arm64 prom/prometheus
+--platform=linux/arm64 grafana/grafana 
