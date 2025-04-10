@@ -1,1 +1,1 @@
-hanfangyuan/dify-on-wechat
+blinkospace/blinko:0.50.0
